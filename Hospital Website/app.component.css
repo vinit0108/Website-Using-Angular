@@ -1,0 +1,28 @@
+h1
+
+{
+    color:rgb(196, 9, 9);
+    background-color:rgba(148, 116, 116, 0.356);
+    text-align:center;
+}
+h2
+
+{
+    color:rgb(218, 89, 15);
+    background-color:rgba(145, 135, 165, 0.356);
+    text-align:center;
+}
+.a
+{
+    color:pink;
+}
+#b
+{
+    color:rgb(84, 41, 238);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, 'sans-serif ';
+}
+
+:button{
+    border-bottom-style: double;
+    color: rgb(170, 103, 16);
+}
